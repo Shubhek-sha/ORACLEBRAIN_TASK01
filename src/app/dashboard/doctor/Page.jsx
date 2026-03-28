@@ -62,7 +62,7 @@ export default function DoctorDashboard() {
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-900 text-lg">
-                    David Miller
+                    Spandan Shrestha
                   </h4>
                   <p className="text-sm font-medium text-slate-500 mt-1">
                     45y • Chest Pain • Video Call
@@ -87,7 +87,7 @@ export default function DoctorDashboard() {
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-900 text-lg">
-                    Sarah Thompson
+                    Sunil Thapa
                   </h4>
                   <p className="text-sm font-medium text-slate-500 mt-1">
                     28y • Follow-up • Clinic Visit
@@ -112,7 +112,7 @@ export default function DoctorDashboard() {
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-900 text-lg">
-                    James Wilson
+                    Bhumika Wagle
                   </h4>
                   <p className="text-sm font-medium text-slate-500 mt-1">
                     52y • Routine Checkup • Clinic Visit

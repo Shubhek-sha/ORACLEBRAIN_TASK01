@@ -9,9 +9,7 @@ export default function Login() {
     <div className="min-h-screen bg-slate-50 flex items-center justify-center p-4">
       <div className="w-full max-w-sm bg-white rounded-2xl shadow-xl border border-slate-100 p-6">
         <div className="text-center mb-6">
-          <h2 className="text-2xl font-bold text-slate-900">
-            Welcome Back
-          </h2>
+          <h2 className="text-2xl font-bold text-slate-900">Welcome Back</h2>
           <p className="text-slate-500 text-sm mt-1">
             Log in to manage your medical journey
           </p>
@@ -78,7 +76,10 @@ export default function Login() {
 
         <p className="mt-6 text-center text-slate-500 text-sm">
           Don't have an account?{" "}
-          <Link to="/register" className="text-blue-600 font-bold hover:underline">
+          <Link
+            to="/register"
+            className="text-blue-600 font-bold hover:underline"
+          >
             Create one
           </Link>
         </p>

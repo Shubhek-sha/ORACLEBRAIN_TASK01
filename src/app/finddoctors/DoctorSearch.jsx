@@ -5,19 +5,19 @@ import doctor1 from "../../assets/doctor1.jpg";
 export default function DoctorSearch() {
   const doctors = [
     {
-      name: "Dr. John Smith",
+      name: "Dr. Mukta Dhakal",
       specialty: "HEART HEALTH CLINIC",
       rating: 4.8,
       img: doctor1,
     },
     {
-      name: "Dr. Emily Johnson",
+      name: "Dr.Mukta Dhakal",
       specialty: "MIND FULL PATHWAY CLINIC",
       rating: 4.9,
       img: doctor1,
     },
     {
-      name: "Dr. Michael Brown",
+      name: "Dr.Sandip Malla",
       specialty: "BONE & JOINT ASSOCIATES",
       rating: 4.7,
       img: doctor1,

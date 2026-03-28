@@ -9,7 +9,7 @@ export default function CTAsection() {
           </p>
 
           <div className="mt-4">
-            <p className="font-medium">Sarah Jenkins</p>
+            <p className="font-medium">Mohan Lohani</p>
             <p className="text-sm text-sky-200">Patient</p>
           </div>
         </div>

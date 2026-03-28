@@ -6,7 +6,7 @@ export default function PatientDashboard() {
   const appointments = [
     {
       id: 1,
-      name: "Dr. Sarah Jenkins",
+      name: "Dr. Spandan Shrestha",
       specialty: "Cardiology Specialist",
       date: "Oct 24, 2024",
       time: "10:00 AM",
@@ -15,7 +15,7 @@ export default function PatientDashboard() {
     },
     {
       id: 2,
-      name: "Dr. Marcus Chen",
+      name: "Dr. Mukta Dhakal",
       specialty: "Dermatology Specialist",
       date: "Oct 28, 2024",
       time: "02:30 PM",
@@ -28,14 +28,14 @@ export default function PatientDashboard() {
     {
       id: 1,
       title: "Cardiology Meds",
-      doctor: "Dr. Sarah Jenkins",
+      doctor: "Dr. Spandan Shrestha",
       date: "Oct 20",
       meds: "Atorvastatin, Clopidogrel",
     },
     {
       id: 2,
       title: "Blood Pressure",
-      doctor: "Dr. Robert Wilson",
+      doctor: "Dr.  Mukta Dhakal",
       date: "Oct 15",
       meds: "Lisinopril, Amlodipine",
     },
